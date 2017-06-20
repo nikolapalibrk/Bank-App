@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 20px;
+  position: relative; }
+  .jumbotron .date {
+    left: 0%;
+    top: 40%; }
+  .jumbotron .clock, .jumbotron .date {
+    width: 20%;
+    height: 50px;
+    color: #333333;
+    position: absolute;
+    top: 33%;
+    right: 0%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px; }
+  .jumbotron h2 {
+    font-size: 40px;
+    margin-bottom: 20px; }
+
+body {
+  padding-bottom: 20px; }
+
+.addAccount,
+.editAccount,
+.editAccounts {
+  display: none; }
+
+.btn:active,
+.btn-:active,
+.btn:active {
+  border: none;
+  outline: none;
+  box-shadow: none; }
+
+/*# sourceMappingURL=main.css.map */
